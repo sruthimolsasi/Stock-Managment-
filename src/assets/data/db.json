@@ -1,0 +1,22 @@
+{
+  "productList": [
+    {
+      "productName": "dd",
+      "category": "Fruite",
+      "freshness": "",
+      "price": 111,
+      "comment": "ss",
+      "date": "",
+      "id": 1
+    },
+    {
+      "productName": "dd",
+      "category": "Fruite",
+      "freshness": "",
+      "price": 111,
+      "comment": "ss",
+      "date": "",
+      "id": 2
+    }
+  ]
+}
